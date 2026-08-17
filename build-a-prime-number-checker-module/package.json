@@ -1,0 +1,16 @@
+{
+  "name": "prime-number-checker",
+  "version": "1.0.0",
+  "description": "A package to check for prime numbers",
+  "keywords": [
+    "prime-number",
+    "divisor"
+  ],
+  "license": "ISC",
+  "author": "fCC_Holad",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  }
+}
